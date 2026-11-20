@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse",
+  "description": "Collegiate event discovery feed for students and AI-assisted publishing studio for campus organisers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
